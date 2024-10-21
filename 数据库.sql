@@ -289,7 +289,7 @@ CREATE TABLE `users`  (
 -- ----------------------------
 -- Records of users
 -- ----------------------------
-INSERT INTO `users` VALUES (1, '戴天晟', 'hyperion0831', '管理员', '2021-02-02 14:46:00');
+INSERT INTO `users` VALUES (1, 'dts', 'hyperion0831', '管理员', '2021-02-02 14:46:00');
 
 -- ----------------------------
 -- Table structure for yonghu
