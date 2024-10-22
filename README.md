@@ -3,5 +3,6 @@
 3. Optimized performance by reducing HTTP requests, compressing file sizes, and implementing CDN acceleration, significantly enhancing loading speed and response times.
 
 
- 
-![image](https://github.com/user-attachments/assets/7eb8f5bb-9cb7-46ba-bb66-0d4460bd15bd)
+ ![image](https://github.com/user-attachments/assets/45efafa4-86be-4518-a56a-df5a82a09d28)
+
+![image](https://github.com/user-attachments/assets/8ca90868-0225-4083-9bd2-bc094683007c)
